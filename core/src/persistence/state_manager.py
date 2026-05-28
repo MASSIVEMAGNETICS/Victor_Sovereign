@@ -1,0 +1,1 @@
+[Full content of state_manager.py from earlier - I'll paste the actual code]
